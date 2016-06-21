@@ -5,6 +5,10 @@ public class HelloWorld {
 		// este es mi primer comentario
 		System.out.println("Hello World Git. This is a commit 2.");
 	}
+	
+	public void decirOtraCosa() {
+		// nothing
+	}
 
 	
 	public void decirOtraCosa() {
