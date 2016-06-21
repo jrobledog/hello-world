@@ -6,8 +6,9 @@ public class HelloWorld {
 		System.out.println("Hello World Git. This is a commit 2.");
 	}
 	
+
 	public void decirOtraCosa2() {
-		// nothing
+
 	}
 
 	
